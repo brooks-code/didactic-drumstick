@@ -7,6 +7,8 @@
 <br>❝You write your first draft with your heart and you rewrite with your head.❞
 *(Caption: The Daily Planet office, Smallville S05)*
 
+---
+
 ## freeCodeCamp news
 
 > [freeCodeCamp](freecodecamp.org) is a non-profit online platform that offers a comprehensive curriculum in coding. My conventional writing finds [its home](https://www.freecodecamp.org/news/author/brkln/) here.
@@ -23,7 +25,7 @@
 
 > dev.to is a community-driven platform where developers share knowledge, experiences, and insights through articles, tutorials, and discussions. This is where I **experiment** [writing tutorials](https://dev.to/atomictangerline/) with a focus on the narrative.
 
-- A walkthrough article about a [State Machine applied to visualization](https://dev.to/atomictangerline/). This will help you discern the elegance of a design that initially appears as a jumble of switch-statements and a labyrinth of method calls.
+- A walkthrough article about a [State Machine applied to visualization](https://dev.to/atomictangerline/the-curious-case-of-the-visualization-state-machine-b8p). This will help you discern the elegance of a design that initially appears as a jumble of switch-statements and a labyrinth of method calls.
   - Related project: [ATMO-Viz](https://github.com/brooks-code/silver-broccoli)
 
 - The [story of Andrea](https://dev.to/atomictangerline/series/30533), grappling with the tedium of manually gathering newspaper translations. Bound by character limits until a spark of inspiration ignites a solution. You'll discover a web automation script that eliminates the need for manual copying and pasting.
